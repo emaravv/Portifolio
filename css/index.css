@@ -15,7 +15,9 @@
     border: black 4px solid;
     border-radius: 5%;
     filter: drop-shadow(0px 0px 50px purple);
+    
     }
+    
     body {
     margin: 0px;
     }
@@ -34,3 +36,23 @@
         margin-left: 40%;
         margin-top: 5px;
     }
+
+    #button{
+        border: none;
+        background: #865DFF;
+        color: #FFA3FD;
+        width: +25%;
+        height: +25px;
+        border-radius: 10%;
+    }
+
+    #button:hover{
+        background: rgba(134, 93, 255, 0.5);
+        color:rgba(255, 163, 253,0.5) ;
+    }
+
+    #ocult{
+        display: none;
+    }
+
+ 
